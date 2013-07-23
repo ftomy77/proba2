@@ -1,5 +1,6 @@
-commit2
+comut
 alma5-q125aaaaa change
+<<<<<<< HEAD
 
 
 123
@@ -7,3 +8,16 @@ alma5-q125aaaaa change
 A megadott nevet (q) a rendszer nem ismeri fel bels‹ vagy kls‹
 parancsk‚nt, futtathat¢ programk‚nt vagy k”tegf jlk‚nt.
 
+=======
+<<<<<<< HEAD
+anext2
+
+=======
+next2
+<<<<<<< HEAD
+123
+>>>>>>> d5e25397daabab79c196ff45655c1553c1fe95e7
+=======
+a123
+>>>>>>> 638963e091d2d7b1d4b8c582082eafa3dff361db
+>>>>>>> d2688f29524499524249283f9abb3c9a5fd97661
